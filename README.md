@@ -46,31 +46,7 @@ The program will analyze the inputs and predict your name!
 * Welcome to the Name Guessing Game! *
 ******************************
 
-Do you want to play with (1) Uppercase letters or (2) Lowercase letters? 1
-
-Choose your columns here!
-A B C D E
-F G H I J
-K L M N O
-...
-
-How many characters are in your name? 4
-Enter the column numbers (1-5):
-Column for character 1: 2
-Column for character 2: 4
-Column for character 3: 1
-Column for character 4: 3
-
-Select again from rows:
-...
-
-Enter the row numbers (1-6):
-Row for character 1: 1
-Row for character 2: 2
-Row for character 3: 3
-Row for character 4: 4
-
-Guessed Name: JOHN
+![image](https://github.com/user-attachments/assets/c7ff3abd-1d07-4e7d-8685-7b2672eaa9dc)
 
 📜 License
 
